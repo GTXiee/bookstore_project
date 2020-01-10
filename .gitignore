@@ -1,0 +1,19 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+staticfiles
+
+### PyCharm
+.idea
+
+### Docker
+docker-compose.yml
+docker-compose-prod.yml
+Dockerfile
+heroku.yml
